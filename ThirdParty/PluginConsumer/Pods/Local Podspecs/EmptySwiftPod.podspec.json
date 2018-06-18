@@ -1,0 +1,32 @@
+{
+  "name": "EmptySwiftPod",
+  "version": "0.0.1",
+  "summary": "Most Basic Swift Pod Example",
+  "description": "Most Basic Swift Pod Example",
+  "homepage": "git@github.com:applicaster/DummySwiftPod.git",
+  "license": "MIT",
+  "authors": {
+    "Ilan Levy": "i.levy@applicaster.com"
+  },
+  "source": {
+    "git": "git@github.com:applicaster/DummySwiftPod.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "requires_arc": true,
+  "swift_version": "4.0",
+  "vendored_frameworks": "EmptySwiftPod.framework",
+  "preserve_paths": "EmptySwiftPod.framework/*",
+  "frameworks": "UIKit",
+  "source_files": "EmptySwiftPod/**/*.{swift}",
+  "xcconfig": {
+    "CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES": "YES",
+    "ENABLE_BITCODE": "NO",
+    "OTHER_LDFLAGS": "$(inherited)",
+    "FRAMEWORK_SEARCH_PATHS": "$(inherited) \"${PODS_ROOT}\"/**",
+    "LIBRARY_SEARCH_PATHS": "$(inherited) \"${PODS_ROOT}\"/**",
+    "SWIFT_VERSION": "4.0"
+  }
+}
