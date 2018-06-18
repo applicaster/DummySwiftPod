@@ -41,5 +41,11 @@ Pod::Spec.new do |spec|
   spec.requires_arc = true
   spec.source = { git: "https://github.com/applicaster/DummySwiftPod.git", tag: "v#{spec.version}", submodules: true }
   spec.source_files = "Classes/**/*.{h,swift}"
+  spec.ios.deployment_target = "9.0"
+  spec.platform            = :ios, '9.0'
+  spec.requires_arc        = true
+  spec.static_framework    = true
+  spec.swift_version       = '4.0'
+
 
 end
