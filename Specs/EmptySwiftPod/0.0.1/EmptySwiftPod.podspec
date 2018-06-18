@@ -34,12 +34,11 @@ Pod::Spec.new do |spec|
   spec.version = "0.0.1"
   spec.summary = "Sample framework from blog post, not for real world use."
   spec.homepage = "https://github.com/applicaster/DummySwiftPod"
-  spec.license = { type: 'MIT', file: 'LICENSE' }
   spec.authors = { "Ilan Levy" => 'i.levy@applicaster.com' }
   spec.license = 'MIT'
   spec.platform = :ios
   spec.requires_arc = true
-  spec.source = { git: "https://github.com/applicaster/DummySwiftPod.git", tag: "v#{spec.version}", submodules: true }
+  spec.source = { git: "https://github.com/applicaster/DummySwiftPod.git", tag: "0.0.1" }
   spec.source_files = "Classes/**/*.{h,swift}"
 
 end
