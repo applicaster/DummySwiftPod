@@ -8,7 +8,8 @@
 
 import Foundation
 
-public class EmtySwiftPod {
+public class SomeClass {
+    
     public init() {
         print("Init - Empty Swift Pod")
     }
