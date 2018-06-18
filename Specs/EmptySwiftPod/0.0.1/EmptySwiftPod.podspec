@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage            = 'git@github.com:applicaster/DummySwiftPod.git'
   s.license             = 'MIT'
   s.author              = { 'Ilan Levy' => 'i.levy@applicaster.com' }
-  s.source              = { :git => 'https://github.com/applicaster/DummySwiftPod.git', :tag => s.version.to_s }
+  s.source              = { :git => 'git@github.com:applicaster/DummySwiftPod.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = "9.0"
   s.platform            = :ios, '9.0'

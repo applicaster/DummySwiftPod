@@ -1,0 +1,16 @@
+PODS:
+  - EmptySwiftPod (0.0.1)
+
+DEPENDENCIES:
+  - EmptySwiftPod (from `/Users/ilanl/DummySwiftPod/Specs/EmptySwiftPod/0.0.1/EmptySwiftPod.podspec`)
+
+EXTERNAL SOURCES:
+  EmptySwiftPod:
+    :path: "/Users/ilanl/DummySwiftPod/Specs/EmptySwiftPod/0.0.1/EmptySwiftPod.podspec"
+
+SPEC CHECKSUMS:
+  EmptySwiftPod: 934eba8c1d12e9e0a3035a33604015276e038e99
+
+PODFILE CHECKSUM: e5365e02dfd081c27edf017c9370a36b88cccfc1
+
+COCOAPODS: 1.5.3
