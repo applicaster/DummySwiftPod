@@ -13,7 +13,5 @@ Pod::Spec.new do |spec|
   spec.requires_arc        = true
   spec.static_framework    = true
   spec.swift_version       = '4.0'
-  spec.vendored_framework  = 'ArtiSDK.framework'
-  spec.preserve_paths = 'ArtiSDK.framework/*'
-  
+  spec.dependency "ArtiSDK", "~> 1.1.010"
 end
