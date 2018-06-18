@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,15 +13,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0C095546C196C2B88D28659A35157AEF /* EmptySwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = EmptySwiftPod.podspec; sourceTree = "<group>"; };
-		0E400E6D5008C4F403E3DA3361C3FD03 /* Pods_PluginConsumer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PluginConsumer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C095546C196C2B88D28659A35157AEF /* EmptySwiftPod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = EmptySwiftPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0E400E6D5008C4F403E3DA3361C3FD03 /* Pods_PluginConsumer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_PluginConsumer.framework; path = "Pods-PluginConsumer.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		23E186FF384B6CEF98C5F68903DABCB2 /* Pods-PluginConsumer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PluginConsumer-umbrella.h"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6B8140B000C30C444A3952CCFD0E2367 /* Pods-PluginConsumer-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PluginConsumer-resources.sh"; sourceTree = "<group>"; };
 		7803497E67DBCFB76DC5B44DF56D2C3F /* Pods-PluginConsumer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PluginConsumer.release.xcconfig"; sourceTree = "<group>"; };
 		7BB7F55C237361299A2C35B1B5E1386C /* Pods-PluginConsumer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PluginConsumer-dummy.m"; sourceTree = "<group>"; };
 		91EBEF59AC22380E1E32AEF57B8D238D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CBC9EE6D6743DB69DD0D9D036D5CCF62 /* Pods-PluginConsumer-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-PluginConsumer-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D57882961EAD29252D104C2F3C75F7F6 /* Pods-PluginConsumer-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PluginConsumer-acknowledgements.plist"; sourceTree = "<group>"; };
 		D97537D4A4B5338FC8308B41C2097E78 /* Pods-PluginConsumer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-PluginConsumer.debug.xcconfig"; sourceTree = "<group>"; };

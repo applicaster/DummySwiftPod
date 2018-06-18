@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  
+
   s.name                = 'EmptySwiftPod'
   s.version             = '0.0.1'
   s.summary             = 'Most Basic Swift Pod Example'
@@ -14,10 +14,9 @@ Pod::Spec.new do |s|
   s.requires_arc        = true
   
   s.swift_version       = '4.0'
-  
+
   s.vendored_framework  = 'EmptySwiftPod.framework'
   s.preserve_paths = 'EmptySwiftPod.framework/*'
-  s.frameworks = 'UIKit'
   s.source_files = 'EmptySwiftPod/**/*.{swift}'
   
   s.xcconfig =  { 'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES',
