@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MbjqAzOq0cvMjn4b6pdHat/jckU=
+		2UBYfAiZQCdIFI1s0/2yhBvlYug=
 		</data>
 		<key>Modules/EmptySwiftPod.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		LDYXrrROH6Z+K3ULUus1R+GPwwE=
+		eRSlyl/WtF+LPj+RGOkdFWZY21o=
 		</data>
 		<key>Modules/EmptySwiftPod.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		rKNHpRjUf8QsDTIuxzALp5EOSiM=
+		Q5W99SVdDylZXISqEqcRG59/hy0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,22 +57,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LDYXrrROH6Z+K3ULUus1R+GPwwE=
+			eRSlyl/WtF+LPj+RGOkdFWZY21o=
 			</data>
 			<key>hash2</key>
 			<data>
-			WodQ5U11rWAtBGc5MGc5Btz08p1vvEaZAvA2bKMmRig=
+			G2AFpIUA5ZkBrbjGCynRUEAvfkln3R9cEI97lEs7/yU=
 			</data>
 		</dict>
 		<key>Modules/EmptySwiftPod.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rKNHpRjUf8QsDTIuxzALp5EOSiM=
+			Q5W99SVdDylZXISqEqcRG59/hy0=
 			</data>
 			<key>hash2</key>
 			<data>
-			iWwEwqTMd9hhRKOqJp72lRhtDQWA4+RjsJCYgLEm0GU=
+			9Jvqpse8zr/EXk/rcSLfCLGWUhSjq8lMYdnrWkPP8KI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
